@@ -1,8 +1,8 @@
 # Serch
 Text detection search app using Google's MLKit for Firebase iOS.
 
-![Simulator Screen Shot - iPhone Xʀ - 2019-07-26 at 09 36 57](https://user-images.githubusercontent.com/21028645/61968434-e09a4680-af8c-11e9-8b6f-bd73b8b9be51.png)
-![Simulator Screen Shot - iPhone Xʀ - 2019-07-26 at 09 37 16](https://user-images.githubusercontent.com/21028645/61968437-e2fca080-af8c-11e9-850e-26f0ec960a66.png)
+![Simulator Screen Shot - iPhone Xʀ - 2019-07-26 at 09 36 57](https://user-images.githubusercontent.com/21028645/61968588-45ee3780-af8d-11e9-89ba-481fbc253a44.png)
+![Simulator Screen Shot - iPhone Xʀ - 2019-07-26 at 09 37 16](https://user-images.githubusercontent.com/21028645/61968591-4686ce00-af8d-11e9-995c-b6f73bc80dcc.png)
 
 Features:
 - Take live photo.
